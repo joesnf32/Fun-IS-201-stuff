@@ -1,15 +1,16 @@
 body {
-    color: rgb(142, 79, 243);
-    background-color: rgb(125, 173, 228); 
+    color: rgb(136, 38, 197);
+    background-color: 
+    rgb(250, 96, 186); 
 }
 
 p {
-    color:rgb(32, 216, 127)
+    color:rgb(255, 255, 255)
 }
 
 
 .special_text{
-    color:rgb(83, 217, 235);
+    color:rgb(113, 6, 213);
     font-style: italic;
 }
 
@@ -28,4 +29,19 @@ a:hover {
 
 a:visited{
     color:rgb(101, 229, 152)
+}
+
+body {
+  text-align: center;
+}
+
+/* Optional: center block elements too */
+div, section, article, header, footer {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
